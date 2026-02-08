@@ -75,9 +75,11 @@
 <br>
 
 ## 🪴 Практика и стажировка
+
 [<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Mastiygina-Elena/Mastiygina-Elena/refs/heads/main/internship.png)
 
 <br>
+
 
 ## 🎒 Образование
 [<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Mastiygina-Elena/Mastiygina-Elena/refs/heads/main/diplom.png)
