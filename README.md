@@ -74,13 +74,13 @@
 
 <br>
 
-## 🪴 Практика и стажировка
+## 🎒 Практика и стажировка
 [<img src="/internship.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Mastiygina-Elena/Mastiygina-Elena/refs/heads/main/internship.png)
 
 <br>
 
 
-## 🎒 Образование и стажировка
+## 🎒 
 [<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Mastiygina-Elena/Mastiygina-Elena/refs/heads/main/diplom.png)
 
 
@@ -88,7 +88,7 @@
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:metrika8@testcloud.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/evdokimovmax)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](le.cherryy@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/le_cherry00)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
